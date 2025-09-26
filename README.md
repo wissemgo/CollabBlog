@@ -33,7 +33,7 @@ CollabBlog is a modern, full-stack collaborative blogging platform built with th
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone [<your-repository-url>](https://github.com/wissemgo/CollabBlog)
     cd collab-blog
     ```
 
