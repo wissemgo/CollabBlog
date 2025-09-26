@@ -181,16 +181,6 @@ frontend/
 
 ---
 
-## 📸 Application Screenshots
 
-### Home Page
-<!-- Insert Home Page Screenshot Here -->
-<br><br>
-
-### Admin Dashboard
-<!-- Insert Admin Dashboard Screenshot Here -->
-<br><br>
-
----
 
 **Built with ❤️ using the MEAN Stack (MongoDB, Express.js, Angular, Node.js)**
